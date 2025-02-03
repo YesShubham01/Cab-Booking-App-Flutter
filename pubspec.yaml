@@ -1,0 +1,109 @@
+name: cab_co19
+description: "A new Flutter project."
+
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.4 <4.0.0'
+
+
+
+
+
+
+#---------PACKAGES----------------------#
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Utility packages
+  
+  #Icons
+  iconsax: ^0.0.8
+  cupertino_icons: ^1.0.2
+
+  #Utility Packages
+  http: ^1.2.0
+  intl: ^0.17.0
+  url_launcher: ^6.2.4
+  logger: ^2.0.2+1
+
+
+  #state Managment
+  get: ^4.6.6
+
+  # Lottie package
+  lottie: ^3.1.0
+
+  # Ui package
+  velocity_x: ^4.1.1
+  gap: ^3.0.1
+  flutter_inappwebview: ^6.0.0
+  flutter_rating_bar: ^4.0.1
+  flutter_stripe: ^10.2.0
+  firebase_core: ^2.27.0
+  google_sign_in: ^6.2.1
+  firebase_auth: ^4.17.8
+
+
+
+
+
+
+
+
+ # ---------------------- ./ PACKAGES END------------------#
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  
+  
+  
+  
+  
+  flutter_lints: ^2.0.0
+
+
+
+
+
+flutter:
+  uses-material-design: true
+
+  #------ LOCAL ASSETS-------------#
+  assets:
+    # - assets/images/
+    # - assets/icons/
+    - assets/logos/
+    - assets/lotties/
+
+
+
+  #------ LOCAL FONTS-------------#
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Poppins-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Poppins-Medium.ttf
+          weight: 500
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+  
