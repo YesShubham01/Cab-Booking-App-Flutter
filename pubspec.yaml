@@ -27,7 +27,7 @@ dependencies:
 
   #Utility Packages
   http: ^1.2.0
-  intl: ^0.17.0
+  intl: ^0.20.2
   url_launcher: ^6.2.4
   logger: ^2.0.2+1
 
@@ -39,14 +39,16 @@ dependencies:
   lottie: ^3.1.0
 
   # Ui package
-  velocity_x: ^4.1.1
+  velocity_x: ^4.3.1
   gap: ^3.0.1
-  flutter_inappwebview: ^6.0.0
+
   flutter_rating_bar: ^4.0.1
   flutter_stripe: ^10.2.0
   firebase_core: ^2.27.0
   google_sign_in: ^6.2.1
   firebase_auth: ^4.17.8
+  archive: ^4.0.4
+  flutter_inappwebview: ^6.0.0
 
 
 

@@ -1,6 +1,6 @@
 {
-    "name": "cab_co19",
-    "short_name": "cab_co19",
+    "name": "cab_app",
+    "short_name": "cab_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

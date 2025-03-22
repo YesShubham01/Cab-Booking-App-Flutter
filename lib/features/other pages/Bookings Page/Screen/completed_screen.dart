@@ -1,4 +1,4 @@
-import 'package:cab_co19/features/other%20pages/Bookings%20Page/Support%20Widget/booking_card_widget.dart';
+import 'package:cab_app/features/other%20pages/Bookings%20Page/Support%20Widget/booking_card_widget.dart';
 import 'package:flutter/material.dart';
 
 class CompletedBookingScreen extends StatefulWidget {

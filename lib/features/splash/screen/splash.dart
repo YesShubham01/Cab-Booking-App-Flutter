@@ -1,8 +1,8 @@
-import 'package:cab_co19/features/authentication/account/login/screens/login.dart';
-import 'package:cab_co19/features/welcome/screens/welcome_screen.dart';
-import 'package:cab_co19/utils/constants/colors.dart';
-import 'package:cab_co19/utils/constants/image_strings.dart';
-import 'package:cab_co19/utils/constants/text_strings.dart';
+import 'package:cab_app/features/authentication/account/login/screens/login.dart';
+import 'package:cab_app/features/welcome/screens/welcome_screen.dart';
+import 'package:cab_app/utils/constants/colors.dart';
+import 'package:cab_app/utils/constants/image_strings.dart';
+import 'package:cab_app/utils/constants/text_strings.dart';
 
 import 'package:flutter/material.dart';
 import 'package:get/route_manager.dart';
@@ -22,8 +22,8 @@ class _SplashState extends State<Splash> {
   void initState() {
     // TODO: implement initState
 
-    // Future.delayed(
-    // const Duration(seconds: 3), () => Get.off(const WelcomeScreen()));
+    Future.delayed(
+        const Duration(seconds: 3), () => Get.off(const WelcomeScreen()));
 
     super.initState();
   }

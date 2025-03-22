@@ -26,8 +26,8 @@ if (flutterVersionName == null) {
 }
 
 android {
-    namespace "com.awt.cab_co19co.cab_co19"
-    compileSdkVersion 34
+    namespace "com.awt.cab_appco.cab_app"
+    compileSdkVersion 35
     ndkVersion flutter.ndkVersion
 
     compileOptions {
@@ -41,7 +41,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId "com.awt.cab_co19co.cab_co19"
+        applicationId "com.awt.cab_appco.cab_app"
         // You can update the following values to match your application needs.
         // For more information, see: https://docs.flutter.dev/deployment/android#reviewing-the-gradle-build-configuration.
         minSdkVersion 21

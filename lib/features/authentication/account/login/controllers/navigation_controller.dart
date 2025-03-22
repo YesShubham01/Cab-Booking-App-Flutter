@@ -1,7 +1,7 @@
-import 'package:cab_co19/features/contact/screen/contact_screen.dart';
-import 'package:cab_co19/features/explore/screen/explore_screen.dart';
-import 'package:cab_co19/features/menu/screen/menu_screen.dart';
-import 'package:cab_co19/features/shared_cab/screens/shared_cab_screen.dart';
+import 'package:cab_app/features/contact/screen/contact_screen.dart';
+import 'package:cab_app/features/explore/screen/explore_screen.dart';
+import 'package:cab_app/features/menu/screen/menu_screen.dart';
+import 'package:cab_app/features/shared_cab/screens/shared_cab_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

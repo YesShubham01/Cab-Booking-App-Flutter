@@ -1,4 +1,4 @@
-import 'package:cab_co19/utils/widgets/custom_web_view.dart';
+import 'package:cab_app/utils/widgets/custom_web_view.dart';
 import 'package:flutter/material.dart';
 
 class ExploreScreen extends StatefulWidget {

@@ -1,12 +1,12 @@
 import 'dart:ui';
 
-import 'package:cab_co19/common/styles/spacing_styles.dart';
-import 'package:cab_co19/features/authentication/account/google%20auth/google_auth_button.dart';
-import 'package:cab_co19/features/dashboard/screen/dashboard_screen.dart';
-import 'package:cab_co19/utils/constants/image_strings.dart';
-import 'package:cab_co19/utils/constants/sizes.dart';
-import 'package:cab_co19/utils/constants/text_strings.dart';
-import 'package:cab_co19/utils/widgets/custom_text_widget.dart';
+import 'package:cab_app/common/styles/spacing_styles.dart';
+import 'package:cab_app/features/authentication/account/google%20auth/google_auth_button.dart';
+import 'package:cab_app/features/dashboard/screen/dashboard_screen.dart';
+import 'package:cab_app/utils/constants/image_strings.dart';
+import 'package:cab_app/utils/constants/sizes.dart';
+import 'package:cab_app/utils/constants/text_strings.dart';
+import 'package:cab_app/utils/widgets/custom_text_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
 import 'package:get/get.dart';

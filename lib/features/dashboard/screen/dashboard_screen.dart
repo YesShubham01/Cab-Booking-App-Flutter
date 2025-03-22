@@ -1,4 +1,4 @@
-import 'package:cab_co19/features/authentication/account/login/controllers/navigation_controller.dart';
+import 'package:cab_app/features/authentication/account/login/controllers/navigation_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:iconsax/iconsax.dart';

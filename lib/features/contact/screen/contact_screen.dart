@@ -1,5 +1,5 @@
-import 'package:cab_co19/utils/widgets/custom_button.dart';
-import 'package:cab_co19/utils/widgets/custom_button_with_icon.dart';
+import 'package:cab_app/utils/widgets/custom_button.dart';
+import 'package:cab_app/utils/widgets/custom_button_with_icon.dart';
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
 import 'package:velocity_x/velocity_x.dart';

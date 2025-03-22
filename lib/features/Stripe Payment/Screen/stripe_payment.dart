@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:cab_co19/utils/widgets/custom_appbar.dart';
+import 'package:cab_app/utils/widgets/custom_appbar.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_stripe/flutter_stripe.dart';
 import 'package:http/http.dart' as http;

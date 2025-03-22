@@ -1,5 +1,5 @@
-import 'package:cab_co19/features/splash/screen/splash.dart';
-import 'package:cab_co19/utils/theme/theme.dart';
+import 'package:cab_app/features/splash/screen/splash.dart';
+import 'package:cab_app/utils/theme/theme.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

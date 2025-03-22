@@ -1,4 +1,4 @@
-import 'package:cab_co19/common/styles/inputfiled_text_style.dart';
+import 'package:cab_app/common/styles/inputfiled_text_style.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';

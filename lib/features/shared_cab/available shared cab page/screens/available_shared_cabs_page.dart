@@ -1,6 +1,6 @@
-import 'package:cab_co19/features/shared_cab/available%20shared%20cab%20page/screens/Support%20Widget/available_cabs_card_widget.dart';
-import 'package:cab_co19/utils/widgets/custom_round_container.dart';
-import 'package:cab_co19/utils/widgets/custom_text_widget.dart';
+import 'package:cab_app/features/shared_cab/available%20shared%20cab%20page/screens/Support%20Widget/available_cabs_card_widget.dart';
+import 'package:cab_app/utils/widgets/custom_round_container.dart';
+import 'package:cab_app/utils/widgets/custom_text_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
 import 'package:velocity_x/velocity_x.dart';

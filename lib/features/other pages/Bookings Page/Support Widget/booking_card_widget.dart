@@ -1,6 +1,6 @@
-import 'package:cab_co19/features/other%20pages/Feedback%20Page/Screen/feedback_page.dart';
-import 'package:cab_co19/features/other%20pages/Ticket%20Page/Screens/ticket_page.dart';
-import 'package:cab_co19/utils/widgets/custom_text_widget.dart';
+import 'package:cab_app/features/other%20pages/Feedback%20Page/Screen/feedback_page.dart';
+import 'package:cab_app/features/other%20pages/Ticket%20Page/Screens/ticket_page.dart';
+import 'package:cab_app/utils/widgets/custom_text_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
 import 'package:get/get.dart';

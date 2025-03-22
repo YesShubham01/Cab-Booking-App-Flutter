@@ -1,8 +1,8 @@
-import 'package:cab_co19/features/other%20pages/Bookings%20Page/Screen/cancelled_screen.dart';
-import 'package:cab_co19/features/other%20pages/Bookings%20Page/Screen/completed_screen.dart';
-import 'package:cab_co19/features/other%20pages/Bookings%20Page/Screen/upcoming_screen.dart';
-import 'package:cab_co19/utils/widgets/custom_appbar.dart';
-import 'package:cab_co19/utils/widgets/custom_text_widget.dart';
+import 'package:cab_app/features/other%20pages/Bookings%20Page/Screen/cancelled_screen.dart';
+import 'package:cab_app/features/other%20pages/Bookings%20Page/Screen/completed_screen.dart';
+import 'package:cab_app/features/other%20pages/Bookings%20Page/Screen/upcoming_screen.dart';
+import 'package:cab_app/utils/widgets/custom_appbar.dart';
+import 'package:cab_app/utils/widgets/custom_text_widget.dart';
 import 'package:flutter/material.dart';
 
 class MyBookingPage extends StatefulWidget {

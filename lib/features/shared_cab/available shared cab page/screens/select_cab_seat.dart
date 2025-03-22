@@ -1,8 +1,8 @@
-import 'package:cab_co19/features/other%20pages/Passenger%20Detail%20Page/Screen/passenger_detail_screen.dart';
-import 'package:cab_co19/utils/constants/image_strings.dart';
-import 'package:cab_co19/utils/widgets/custom_appbar.dart';
-import 'package:cab_co19/utils/widgets/custom_button.dart';
-import 'package:cab_co19/utils/widgets/custom_text_widget.dart';
+import 'package:cab_app/features/other%20pages/Passenger%20Detail%20Page/Screen/passenger_detail_screen.dart';
+import 'package:cab_app/utils/constants/image_strings.dart';
+import 'package:cab_app/utils/widgets/custom_appbar.dart';
+import 'package:cab_app/utils/widgets/custom_button.dart';
+import 'package:cab_app/utils/widgets/custom_text_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
 import 'package:get/get.dart';

@@ -155,7 +155,7 @@ class Authenticate {
     } catch (e) {
       print(e);
       var snackBar = SnackBar(
-        content: Text('Error:' + ("Something went wrong :/" + e.toString())),
+        content: Text('Error:' + ("Something went wrong :/$e")),
         duration: const Duration(seconds: 3),
       );
       ScaffoldMessenger.of(context).showSnackBar(snackBar);

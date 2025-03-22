@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="cab_co19"
+        android:label="cab_app"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

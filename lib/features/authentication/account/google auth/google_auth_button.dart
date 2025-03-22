@@ -1,5 +1,5 @@
-import 'package:cab_co19/features/authentication/account/google%20auth/authenticate.dart';
-import 'package:cab_co19/features/dashboard/screen/dashboard_screen.dart';
+import 'package:cab_app/features/authentication/account/google%20auth/authenticate.dart';
+import 'package:cab_app/features/dashboard/screen/dashboard_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
@@ -38,9 +38,9 @@ class _GoogleSignInButtonState extends State<GoogleSignInButton> {
             )
           : OutlinedButton(
               style: ButtonStyle(
-                backgroundColor: MaterialStateProperty.all(
+                backgroundColor: WidgetStateProperty.all(
                     const Color.fromRGBO(255, 255, 255, 1)),
-                shape: MaterialStateProperty.all(
+                shape: WidgetStateProperty.all(
                   RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(40),
                   ),

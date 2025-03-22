@@ -1,4 +1,4 @@
-package com.awt.cab_co19co.cab_co19;
+package com.awt.cab_appco.cab_app;
 
 import io.flutter.embedding.android.FlutterActivity;
 import io.flutter.embedding.android.FlutterFragmentActivity;

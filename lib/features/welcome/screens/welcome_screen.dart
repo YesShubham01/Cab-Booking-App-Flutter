@@ -1,8 +1,8 @@
-import 'package:cab_co19/features/authentication/account/Signup/screens/signup.dart';
-import 'package:cab_co19/features/authentication/account/google%20auth/google_auth_button.dart';
-import 'package:cab_co19/utils/constants/image_strings.dart';
-import 'package:cab_co19/utils/device/device.dart';
-import 'package:cab_co19/utils/widgets/custom_text_widget.dart';
+import 'package:cab_app/features/authentication/account/Signup/screens/signup.dart';
+import 'package:cab_app/features/authentication/account/google%20auth/google_auth_button.dart';
+import 'package:cab_app/utils/constants/image_strings.dart';
+import 'package:cab_app/utils/device/device.dart';
+import 'package:cab_app/utils/widgets/custom_text_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
 import 'package:get/get.dart';

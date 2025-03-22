@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.awt.cab_co19co" "\0"
-            VALUE "FileDescription", "cab_co19" "\0"
+            VALUE "CompanyName", "com.awt.cab_appco" "\0"
+            VALUE "FileDescription", "cab_app" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "cab_co19" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2024 com.awt.cab_co19co. All rights reserved." "\0"
-            VALUE "OriginalFilename", "cab_co19.exe" "\0"
-            VALUE "ProductName", "cab_co19" "\0"
+            VALUE "InternalName", "cab_app" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2024 com.awt.cab_appco. All rights reserved." "\0"
+            VALUE "OriginalFilename", "cab_app.exe" "\0"
+            VALUE "ProductName", "cab_app" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

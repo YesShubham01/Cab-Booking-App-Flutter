@@ -1,5 +1,5 @@
-import 'package:cab_co19/features/shared_cab/constants/shared_cab_constants.dart';
-import 'package:cab_co19/features/shared_cab/support%20Widget/passenger_count_widget.dart';
+import 'package:cab_app/features/shared_cab/constants/shared_cab_constants.dart';
+import 'package:cab_app/features/shared_cab/support%20Widget/passenger_count_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
 import 'package:velocity_x/velocity_x.dart';

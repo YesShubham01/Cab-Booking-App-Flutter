@@ -1,7 +1,7 @@
-import 'package:cab_co19/utils/constants/colors.dart';
-import 'package:cab_co19/utils/theme/Custom_thems/elevated_button_theme.dart';
-import 'package:cab_co19/utils/theme/Custom_thems/text_field_theme.dart';
-import 'package:cab_co19/utils/theme/Custom_thems/text_theme.dart';
+import 'package:cab_app/utils/constants/colors.dart';
+import 'package:cab_app/utils/theme/Custom_thems/elevated_button_theme.dart';
+import 'package:cab_app/utils/theme/Custom_thems/text_field_theme.dart';
+import 'package:cab_app/utils/theme/Custom_thems/text_theme.dart';
 import 'package:flutter/material.dart';
 
 class TAppTheme {
